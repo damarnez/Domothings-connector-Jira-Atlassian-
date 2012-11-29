@@ -1,0 +1,22 @@
+{
+    "red": {
+        "priority": [
+            1,
+            2
+        ],
+        "port": "D2"
+    },
+    "yellow": {
+        "priority": [
+            3,
+            4
+        ],
+        "port": "D3"
+    },
+    "green": {
+        "priority": [
+            5
+        ],
+        "port": "D4"
+    }
+}

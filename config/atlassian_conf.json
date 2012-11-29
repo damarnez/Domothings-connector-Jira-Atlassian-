@@ -1,0 +1,9 @@
+{
+    "user" : "user",
+    "password": "password",
+    "protocol":"http://",
+    "domain":"localhost",
+    "port" : 8080,
+    "issueType":"bug",
+    "assignee":""
+}
